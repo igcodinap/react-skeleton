@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/igcodinap/react-skeleton/issues"
   },
-  "homepage": "https://github.com/igcodinap/react-skeleton#readme"
+  "homepage": "https://github.com/igcodinap/react-skeleton#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.24.1",
+    "babelify": "^10.0.0",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "watchify": "^3.11.1"
+  }
 }
